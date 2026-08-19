@@ -683,7 +683,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [Vulkan® Tools](https://github.com/KhronosGroup/Vulkan-Tools) ⭐ 485 | 🐛 30 | 🌐 C++ | 📅 2026-08-17 is a project that provides Khronos official Vulkan Tools and Utilities for Windows, Linux, Android, and macOS.
 
-[Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) ⭐ 3,777 | 🐛 24 | 🌐 C++ | 📅 2026-08-19 is a API that provides a header only C++ bindings for the Vulkan C API to improve the developers Vulkan experience without introducing CPU runtime cost. It adds features like type safety for enums and bitfields, STL container support, exceptions and simple enumerations.
+[Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) ⭐ 3,777 | 🐛 25 | 🌐 C++ | 📅 2026-08-19 is a API that provides a header only C++ bindings for the Vulkan C API to improve the developers Vulkan experience without introducing CPU runtime cost. It adds features like type safety for enums and bitfields, STL container support, exceptions and simple enumerations.
 
 [Vulkan® Memory Allocator (VMA)](https://gpuopen.com/vulkan-memory-allocator/) is a  library that provides a simple and easy to integrate API to help you allocate memory for Vulkan® buffer and image storage.
 
@@ -697,7 +697,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [Radeon™ Memory Visualizer (RMV)](https://gpuopen.com/rmv/) is a tool provided by AMD for use by game engine developers. It allows engineers to examine, diagnose, and understand the GPU memory management within their projects.
 
-[DXVK](https://github.com/doitsujin/dxvk) ⭐ 17,875 | 🐛 253 | 🌐 C++ | 📅 2026-08-19 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+[DXVK](https://github.com/doitsujin/dxvk) ⭐ 17,876 | 🐛 253 | 🌐 C++ | 📅 2026-08-19 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
 
 [MoltenVK](https://moltengl.com/moltenvk) is an implementation of Vulkan running on iOS and macOS using Apple's [Metal](https://developer.apple.com/metal/) graphics framework.
 
@@ -713,7 +713,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,918 | 🐛 342 | 🌐 C | 📅 2026-08-19 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
 
-[ImGui](https://github.com/ocornut/imgui) ⭐ 75,727 | 🐛 1,234 | 🌐 C++ | 📅 2026-08-19 is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
+[ImGui](https://github.com/ocornut/imgui) ⭐ 75,728 | 🐛 1,234 | 🌐 C++ | 📅 2026-08-19 is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
 
 [Ash](https://github.com/MaikKlein/ash) ⭐ 2,325 | 🐛 78 | 🌐 Rust | 📅 2026-08-12 is a very lightweight wrapper around Vulkan.
 
@@ -851,7 +851,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [Simple DirectMedia Layer](https://www.libsdl.org/) is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog.
 
-[DXVK](https://github.com/doitsujin/dxvk) ⭐ 17,875 | 🐛 253 | 🌐 C++ | 📅 2026-08-19 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+[DXVK](https://github.com/doitsujin/dxvk) ⭐ 17,876 | 🐛 253 | 🌐 C++ | 📅 2026-08-19 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
 
 [VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,918 | 🐛 342 | 🌐 C | 📅 2026-08-19 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
 
@@ -2480,7 +2480,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
-[MSBuild](https://github.com/dotnet/msbuild) ⭐ 5,542 | 🐛 1,659 | 🌐 C# | 📅 2026-08-19 is the build platform for .NET and Visual Studio. MSBuild, provides an XML schema for a project file that controls how the build platform processes and builds software. Visual Studio uses MSBuild to perform team builds through Azure DevOps Server, but MSBuild can run without Visual Studio.
+[MSBuild](https://github.com/dotnet/msbuild) ⭐ 5,542 | 🐛 1,660 | 🌐 C# | 📅 2026-08-19 is the build platform for .NET and Visual Studio. MSBuild, provides an XML schema for a project file that controls how the build platform processes and builds software. Visual Studio uses MSBuild to perform team builds through Azure DevOps Server, but MSBuild can run without Visual Studio.
 
 [Roslyn](https://docs.microsoft.com/dotnet/csharp/roslyn-sdk/) is a .NET compiler developed by Microsoft that provides C# and Visual Basic languages with rich code analysis APIs.
 
@@ -2770,7 +2770,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 ## SQL/NoSQL Tools and Databases
 
-[Netdata](https://github.com/netdata/netdata) ⭐ 80,228 | 🐛 398 | 🌐 Go | 📅 2026-08-19 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
+[Netdata](https://github.com/netdata/netdata) ⭐ 80,228 | 🐛 397 | 🌐 Go | 📅 2026-08-19 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
 
 [Azure Data Studio](https://github.com/Microsoft/azuredatastudio) ⚠️ Archived is an open source data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 

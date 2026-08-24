@@ -501,11 +501,11 @@ Developing with SwiftUI in Xcode 12
 
 [NVIDIA Omniverse](https://developer.nvidia.com/nvidia-omniverse-platform) is a powerful, multi-GPU, real-time simulation and collaboration platform for 3D production pipelines based on Pixar's Universal Scene Description and NVIDIA RTX.
 
-[LibGDX](https://github.com/libgdx/libgdx) ⭐ 25,330 | 🐛 339 | 🌐 Java | 📅 2026-08-23 is a cross-platform Java game development framework based on OpenGL (ES) that works on Windows, Linux, Mac OS X, Android, your WebGL enabled browser and iOS.
+[LibGDX](https://github.com/libgdx/libgdx) ⭐ 25,330 | 🐛 340 | 🌐 Java | 📅 2026-08-23 is a cross-platform Java game development framework based on OpenGL (ES) that works on Windows, Linux, Mac OS X, Android, your WebGL enabled browser and iOS.
 
 [cocos2d-x](https://github.com/cocos2d/cocos2d-x) ⭐ 19,159 | 🐛 1,604 | 🌐 C++ | 📅 2025-05-09 is a multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, macOS, Windows and Linux.
 
-[MonoGame](https://github.com/MonoGame/MonoGame) ⭐ 14,340 | 🐛 757 | 🌐 C# | 📅 2026-08-23 is a framework for creating powerful cross-platform games. The spiritual successor to XNA with thousands of titles shipped across desktop, mobile, and console platforms. MonoGame is a fully managed .NET open source game framework without any black boxes.
+[MonoGame](https://github.com/MonoGame/MonoGame) ⭐ 14,341 | 🐛 756 | 🌐 C# | 📅 2026-08-24 is a framework for creating powerful cross-platform games. The spiritual successor to XNA with thousands of titles shipped across desktop, mobile, and console platforms. MonoGame is a fully managed .NET open source game framework without any black boxes.
 
 [Three.js](https://threejs.org) is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.
 
@@ -663,7 +663,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [Vulkan Documentation](https://github.com/KhronosGroup/Vulkan-Docs) ⭐ 3,325 | 🐛 385 | 🌐 JavaScript | 📅 2026-08-14
 
-[HLSL to SPIR-V Feature Mapping Manual](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/SPIR-V.rst) ⭐ 3,628 | 🐛 776 | 🌐 C++ | 📅 2026-08-21
+[HLSL to SPIR-V Feature Mapping Manual](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/SPIR-V.rst) ⭐ 3,629 | 🐛 776 | 🌐 C++ | 📅 2026-08-21
 
 [Vulkan GLSL Ray Tracing Emulator Tutorial](https://www.gsn-lib.org/docs/nodes/raytracing.php)
 
@@ -697,7 +697,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [Radeon™ Memory Visualizer (RMV)](https://gpuopen.com/rmv/) is a tool provided by AMD for use by game engine developers. It allows engineers to examine, diagnose, and understand the GPU memory management within their projects.
 
-[DXVK](https://github.com/doitsujin/dxvk) ⭐ 17,907 | 🐛 256 | 🌐 C++ | 📅 2026-08-23 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+[DXVK](https://github.com/doitsujin/dxvk) ⭐ 17,907 | 🐛 256 | 🌐 C++ | 📅 2026-08-24 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
 
 [MoltenVK](https://moltengl.com/moltenvk) is an implementation of Vulkan running on iOS and macOS using Apple's [Metal](https://developer.apple.com/metal/) graphics framework.
 
@@ -713,7 +713,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,923 | 🐛 345 | 🌐 C | 📅 2026-08-24 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
 
-[ImGui](https://github.com/ocornut/imgui) ⭐ 75,840 | 🐛 1,234 | 🌐 C++ | 📅 2026-08-23 is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
+[ImGui](https://github.com/ocornut/imgui) ⭐ 75,842 | 🐛 1,234 | 🌐 C++ | 📅 2026-08-23 is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
 
 [Ash](https://github.com/MaikKlein/ash) ⭐ 2,330 | 🐛 78 | 🌐 Rust | 📅 2026-08-12 is a very lightweight wrapper around Vulkan.
 
@@ -851,7 +851,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [Simple DirectMedia Layer](https://www.libsdl.org/) is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog.
 
-[DXVK](https://github.com/doitsujin/dxvk) ⭐ 17,907 | 🐛 256 | 🌐 C++ | 📅 2026-08-23 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+[DXVK](https://github.com/doitsujin/dxvk) ⭐ 17,907 | 🐛 256 | 🌐 C++ | 📅 2026-08-24 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
 
 [VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,923 | 🐛 345 | 🌐 C | 📅 2026-08-24 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
 
@@ -1013,9 +1013,9 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [ODM](https://www.opendronemap.org/odm/) is an open source command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images.
 
-[WebODM](https://www.opendronemap.org/webodm/) is a user-friendly, commercial grade software for drone image processing. Generate georeferenced maps, point clouds, elevation models and textured 3D models from aerial images. It supports multiple engines for processing, currently [ODM](https://github.com/OpenDroneMap/ODM) ⭐ 6,390 | 🐛 112 | 🌐 Python | 📅 2026-08-21 and [MicMac](https://github.com/dronemapper-io/NodeMICMAC/) ⭐ 98 | 🐛 9 | 🌐 JavaScript | 📅 2024-11-11.
+[WebODM](https://www.opendronemap.org/webodm/) is a user-friendly, commercial grade software for drone image processing. Generate georeferenced maps, point clouds, elevation models and textured 3D models from aerial images. It supports multiple engines for processing, currently [ODM](https://github.com/OpenDroneMap/ODM) ⭐ 6,391 | 🐛 112 | 🌐 Python | 📅 2026-08-21 and [MicMac](https://github.com/dronemapper-io/NodeMICMAC/) ⭐ 98 | 🐛 9 | 🌐 JavaScript | 📅 2024-11-11.
 
-[NodeODM](https://www.opendronemap.org/nodeodm/) is a [standard API specification](https://github.com/OpenDroneMap/NodeODM/blob/master/docs/index.adoc) ⭐ 301 | 🐛 6 | 🌐 JavaScript | 📅 2026-04-30 for processing aerial images with engines such as [ODM](https://github.com/OpenDroneMap/ODM) ⭐ 6,390 | 🐛 112 | 🌐 Python | 📅 2026-08-21. The API is used by clients such as [WebODM](https://github.com/OpenDroneMap/WebODM) ⭐ 4,113 | 🐛 47 | 🌐 Python | 📅 2026-08-17, [CloudODM](https://github.com/OpenDroneMap/CloudODM) ⭐ 72 | 🐛 7 | 🌐 Go | 📅 2023-12-18 and [PyODM](https://github.com/OpenDroneMap/PyODM) ⭐ 118 | 🐛 1 | 🌐 Python | 📅 2025-01-20.
+[NodeODM](https://www.opendronemap.org/nodeodm/) is a [standard API specification](https://github.com/OpenDroneMap/NodeODM/blob/master/docs/index.adoc) ⭐ 301 | 🐛 6 | 🌐 JavaScript | 📅 2026-04-30 for processing aerial images with engines such as [ODM](https://github.com/OpenDroneMap/ODM) ⭐ 6,391 | 🐛 112 | 🌐 Python | 📅 2026-08-21. The API is used by clients such as [WebODM](https://github.com/OpenDroneMap/WebODM) ⭐ 4,113 | 🐛 47 | 🌐 Python | 📅 2026-08-17, [CloudODM](https://github.com/OpenDroneMap/CloudODM) ⭐ 72 | 🐛 7 | 🌐 Go | 📅 2023-12-18 and [PyODM](https://github.com/OpenDroneMap/PyODM) ⭐ 118 | 🐛 1 | 🌐 Python | 📅 2025-01-20.
 
 \[ClusterODM]<https://www.opendronemap.org/clusterodm/>) is a reverse proxy, load balancer and task tracker with optional cloud autoscaling capabilities for NodeODM API compatible nodes. In a nutshell, it's a program to link together multiple NodeODM API compatible nodes under a single network address.
 
@@ -2073,7 +2073,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Microsoft AirSim](https://microsoft.github.io/AirSim/lidar.html) is a simulator for drones, cars and more, built on Unreal Engine (with an experimental Unity release). AirSim is open-source, cross platform, and supports [software-in-the-loop simulation](https://www.mathworks.com/help///ecoder/software-in-the-loop-sil-simulation.html) with popular flight controllers such as PX4 & ArduPilot and [hardware-in-loop](https://www.ni.com/en-us/innovations/white-papers/17/what-is-hardware-in-the-loop-.html) with PX4 for physically and visually realistic simulations. It is developed as an Unreal plugin that can simply be dropped into any Unreal environment. AirSim is being developed  as a platform for AI research to experiment with deep learning, computer vision and reinforcement learning algorithms for autonomous vehicles.
 
-[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,317 | 🐛 1,193 | 🌐 C++ | 📅 2026-08-24 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely.
+[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,317 | 🐛 1,194 | 🌐 C++ | 📅 2026-08-24 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely.
 
 [ROS/ROS2 bridge for CARLA(package)](https://github.com/carla-simulator/ros-bridge) ⭐ 643 | 🐛 185 | 🌐 Python | 📅 2026-08-16 is a bridge that enables two-way communication between ROS and CARLA. The information from the CARLA server is translated to ROS topics. In the same way, the messages sent between nodes in ROS get translated to commands to be applied in CARLA.
 
@@ -2151,7 +2151,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Minkowski Engine](https://nvidia.github.io/MinkowskiEngine) is an auto-differentiation library for sparse tensors. It supports all standard neural network layers such as convolution, pooling, unpooling, and broadcasting operations for sparse tensors.
 
-[CUTLASS](https://github.com/NVIDIA/cutlass) ⭐ 10,291 | 🐛 658 | 🌐 C++ | 📅 2026-08-20 is a collection of CUDA C++ template abstractions for implementing high-performance matrix-multiplication (GEMM) at all levels and scales within CUDA. It incorporates strategies for hierarchical decomposition and data movement similar to those used to implement cuBLAS.
+[CUTLASS](https://github.com/NVIDIA/cutlass) ⭐ 10,292 | 🐛 665 | 🌐 C++ | 📅 2026-08-20 is a collection of CUDA C++ template abstractions for implementing high-performance matrix-multiplication (GEMM) at all levels and scales within CUDA. It incorporates strategies for hierarchical decomposition and data movement similar to those used to implement cuBLAS.
 
 [CUB](https://github.com/NVIDIA/cub) ⚠️ Archived is a cooperative primitives for CUDA C++ kernel authors.
 
@@ -2375,13 +2375,13 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Azure SDK for C](https://github.com/Azure/azure-sdk-for-c) ⚠️ Archived
 
-[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 659 | 🐛 205 | 🌐 C++ | 📅 2026-08-24
+[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 659 | 🐛 206 | 🌐 C++ | 📅 2026-08-24
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,389 | 🐛 1,194 | 🌐 CMake | 📅 2026-08-24 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,390 | 🐛 1,194 | 🌐 CMake | 📅 2026-08-24 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
@@ -2549,9 +2549,9 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 ## Lua Tools, Libraries, and Frameworks
 
-[Lua Language Server](https://github.com/sumneko/lua-language-server) ⭐ 4,346 | 🐛 702 | 🌐 Lua | 📅 2026-08-24 is an extension for VSCode that provides support for the Lua Language Server.
+[Lua Language Server](https://github.com/sumneko/lua-language-server) ⭐ 4,347 | 🐛 702 | 🌐 Lua | 📅 2026-08-24 is an extension for VSCode that provides support for the Lua Language Server.
 
-[Apache APISIX](https://github.com/apache/apisix) ⭐ 17,023 | 🐛 253 | 🌐 Lua | 📅 2026-08-24 is a dynamic, real-time, high-performance API gateway, based on the Nginx library and etcd.
+[Apache APISIX](https://github.com/apache/apisix) ⭐ 17,024 | 🐛 254 | 🌐 Lua | 📅 2026-08-24 is a dynamic, real-time, high-performance API gateway, based on the Nginx library and etcd.
 
 [NodeMCU](https://github.com/nodemcu/nodemcu-firmware) ⭐ 7,942 | 🐛 119 | 🌐 C | 📅 2026-06-07 is an open source Lua based firmware for the [ESP8266 WiFi SOC from Espressif](https://espressif.com/en/products/esp8266/) and uses an on-module flash-based [SPIFFS](https://github.com/pellepl/spiffs) ⭐ 1,621 | 🐛 104 | 🌐 C | 📅 2026-07-16 file system.
 
@@ -2770,7 +2770,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 ## SQL/NoSQL Tools and Databases
 
-[Netdata](https://github.com/netdata/netdata) ⭐ 80,272 | 🐛 391 | 🌐 Go | 📅 2026-08-24 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
+[Netdata](https://github.com/netdata/netdata) ⭐ 80,276 | 🐛 393 | 🌐 Go | 📅 2026-08-24 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
 
 [Azure Data Studio](https://github.com/Microsoft/azuredatastudio) ⚠️ Archived is an open source data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 

@@ -1222,7 +1222,7 @@
                 "open_issues": 1604,
                 "owner": "cocos2d",
                 "repo": "cocos2d-x",
-                "stars": 19194,
+                "stars": 19195,
                 "topics": [
                   "android",
                   "c-plus-plus",
@@ -1252,11 +1252,11 @@
                 "id": 1579990,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-26T14:14:14Z",
+                "last_commit": "2026-09-27T15:51:07Z",
                 "open_issues": 762,
                 "owner": "MonoGame",
                 "repo": "MonoGame",
-                "stars": 14453,
+                "stars": 14459,
                 "topics": [
                   "3d",
                   "c-sharp",
@@ -1304,7 +1304,7 @@
                 "open_issues": 1000,
                 "owner": "BradLarson",
                 "repo": "GPUImage",
-                "stars": 20291,
+                "stars": 20290,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:34:43.933Z"
@@ -1367,7 +1367,7 @@
                 "open_issues": 1041,
                 "owner": "ValveSoftware",
                 "repo": "openvr",
-                "stars": 6667,
+                "stars": 6666,
                 "topics": [
                   "hardware",
                   "openvr-sdk",
@@ -1593,7 +1593,7 @@
                 "open_issues": 29,
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Hpp",
-                "stars": 3795,
+                "stars": 3796,
                 "topics": [
                   "cpp",
                   "vulkan"
@@ -1613,11 +1613,11 @@
                 "id": 106558568,
                 "language": "C++",
                 "license": "Zlib",
-                "last_commit": "2026-09-25T14:52:04Z",
-                "open_issues": 260,
+                "last_commit": "2026-09-27T10:56:26Z",
+                "open_issues": 263,
                 "owner": "doitsujin",
                 "repo": "dxvk",
-                "stars": 18151,
+                "stars": 18157,
                 "topics": [
                   "d3d11",
                   "d3d9",
@@ -1719,7 +1719,7 @@
                 "language": "C",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-09-25T08:13:15Z",
-                "open_issues": 311,
+                "open_issues": 312,
                 "owner": "HansKristian-Work",
                 "repo": "vkd3d-proton",
                 "stars": 2970,
@@ -1743,7 +1743,7 @@
                 "open_issues": 1228,
                 "owner": "ocornut",
                 "repo": "imgui",
-                "stars": 76372,
+                "stars": 76387,
                 "topics": [
                   "api",
                   "cplusplus",
@@ -1780,7 +1780,7 @@
                 "open_issues": 79,
                 "owner": "ash-rs",
                 "repo": "ash",
-                "stars": 2348,
+                "stars": 2349,
                 "topics": [
                   "gamedev",
                   "rust",
@@ -1805,7 +1805,7 @@
                 "open_issues": 331,
                 "owner": "gfx-rs",
                 "repo": "gfx",
-                "stars": 5397,
+                "stars": 5398,
                 "topics": [
                   "dx11",
                   "dx12",
@@ -1899,7 +1899,7 @@
                 "open_issues": 30,
                 "owner": "NVIDIA-RTX",
                 "repo": "NVRHI",
-                "stars": 2022,
+                "stars": 2023,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:34:43.933Z"
@@ -1937,11 +1937,11 @@
                 "id": 106558568,
                 "language": "C++",
                 "license": "Zlib",
-                "last_commit": "2026-09-25T14:52:04Z",
-                "open_issues": 260,
+                "last_commit": "2026-09-27T10:56:26Z",
+                "open_issues": 263,
                 "owner": "doitsujin",
                 "repo": "dxvk",
-                "stars": 18151,
+                "stars": 18157,
                 "topics": [
                   "d3d11",
                   "d3d9",
@@ -1968,7 +1968,7 @@
                 "language": "C",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-09-25T08:13:15Z",
-                "open_issues": 311,
+                "open_issues": 312,
                 "owner": "HansKristian-Work",
                 "repo": "vkd3d-proton",
                 "stars": 2970,
@@ -2070,7 +2070,7 @@
                 "open_issues": 43,
                 "owner": "alicevision",
                 "repo": "AliceVision",
-                "stars": 3504,
+                "stars": 3505,
                 "topics": [
                   "3d-computer-vision",
                   "3d-reconstruction",
@@ -2101,11 +2101,11 @@
                 "id": 34405381,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T10:46:47Z",
+                "last_commit": "2026-09-27T15:56:08Z",
                 "open_issues": 526,
                 "owner": "alicevision",
                 "repo": "Meshroom",
-                "stars": 12979,
+                "stars": 12982,
                 "topics": [
                   "3d-reconstruction",
                   "alicevision",
@@ -2154,7 +2154,7 @@
                 "open_issues": 216,
                 "owner": "apple",
                 "repo": "tensorflow_macos",
-                "stars": 3645,
+                "stars": 3644,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:34:43.933Z"
@@ -2341,10 +2341,10 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-09-25T22:46:41Z",
-                "open_issues": 1804,
+                "open_issues": 1805,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11161,
+                "stars": 11165,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -2460,7 +2460,7 @@
                 "open_issues": 216,
                 "owner": "apple",
                 "repo": "tensorflow_macos",
-                "stars": 3645,
+                "stars": 3644,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:34:43.933Z"
@@ -2548,7 +2548,7 @@
                 "open_issues": 1204,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14433,
+                "stars": 14438,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -2644,10 +2644,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-23T08:49:11Z",
-                "open_issues": 762,
+                "open_issues": 767,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10496,
+                "stars": 10500,
                 "topics": [
                   "cpp",
                   "cuda",
@@ -2732,10 +2732,10 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-09-25T22:46:41Z",
-                "open_issues": 1804,
+                "open_issues": 1805,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11161,
+                "stars": 11165,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -2868,7 +2868,7 @@
                 "open_issues": 19,
                 "owner": "scottclowe",
                 "repo": "matlab-schemer",
-                "stars": 1259,
+                "stars": 1258,
                 "topics": [
                   "color-scheme",
                   "color-theme",
@@ -2971,7 +2971,7 @@
                 "open_issues": 248,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45334,
+                "stars": 45338,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:34:43.933Z"
@@ -3049,7 +3049,7 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T12:02:42Z",
+                "last_commit": "2026-09-27T12:27:00Z",
                 "open_issues": 203,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
@@ -3085,11 +3085,11 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-09-26T12:27:50Z",
-                "open_issues": 1089,
+                "last_commit": "2026-09-27T00:04:06Z",
+                "open_issues": 1088,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27483,
+                "stars": 27499,
                 "topics": [
                   "c",
                   "cmake",
@@ -3230,7 +3230,7 @@
                 "open_issues": 53,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29632,
+                "stars": 29631,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -3267,10 +3267,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-25T21:10:49Z",
-                "open_issues": 1751,
+                "open_issues": 1753,
                 "owner": "dotnet",
                 "repo": "msbuild",
-                "stars": 5551,
+                "stars": 5552,
                 "topics": [
                   "build",
                   "hacktoberfest",
@@ -3333,7 +3333,7 @@
                 "open_issues": 137,
                 "owner": "quasar",
                 "repo": "Quasar",
-                "stars": 9907,
+                "stars": 9908,
                 "topics": [
                   "administration",
                   "c-sharp",
@@ -3395,7 +3395,7 @@
                 "open_issues": 22,
                 "owner": "Azure",
                 "repo": "autorest",
-                "stars": 4797,
+                "stars": 4796,
                 "topics": [
                   "azure",
                   "code-generator",
@@ -3475,7 +3475,7 @@
                 "open_issues": 709,
                 "owner": "LuaLS",
                 "repo": "lua-language-server",
-                "stars": 4373,
+                "stars": 4375,
                 "topics": [
                   "hacktoberfest",
                   "language-server",
@@ -3504,7 +3504,7 @@
                 "open_issues": 247,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17167,
+                "stars": 17168,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -3600,7 +3600,7 @@
                 "open_issues": 158,
                 "owner": "leafo",
                 "repo": "moonscript",
-                "stars": 3468,
+                "stars": 3469,
                 "topics": [
                   "language",
                   "lua",
@@ -3623,8 +3623,8 @@
                 "id": 6062770,
                 "language": "MoonScript",
                 "license": "MIT",
-                "last_commit": "2026-08-26T01:27:41Z",
-                "open_issues": 175,
+                "last_commit": "2026-09-27T08:34:40Z",
+                "open_issues": 176,
                 "owner": "leafo",
                 "repo": "lapis",
                 "stars": 3344,
@@ -3775,10 +3775,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2024-12-17T17:30:35Z",
-                "open_issues": 337,
+                "open_issues": 341,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38589,
+                "stars": 38591,
                 "topics": [
                   "api",
                   "api-client",
@@ -3820,7 +3820,7 @@
                 "open_issues": 9,
                 "owner": "reorx",
                 "repo": "httpstat",
-                "stars": 6222,
+                "stars": 6221,
                 "topics": [
                   "cli",
                   "curl",
@@ -3876,7 +3876,7 @@
                 "open_issues": 159,
                 "owner": "vi",
                 "repo": "websocat",
-                "stars": 8698,
+                "stars": 8700,
                 "topics": [
                   "cli",
                   "command-line",
@@ -3918,11 +3918,11 @@
                 "id": 10744183,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-26T12:46:08Z",
-                "open_issues": 407,
+                "last_commit": "2026-09-26T19:42:24Z",
+                "open_issues": 412,
                 "owner": "netdata",
                 "repo": "netdata",
-                "stars": 80661,
+                "stars": 80672,
                 "topics": [
                   "ai",
                   "alerting",
@@ -4058,7 +4058,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T15:18:52.155Z",
+    "last_updated": "2026-09-27T15:57:50.988Z",
     "original_repository_info": {
       "archived": false,
       "description": "Unity Engine Guide",

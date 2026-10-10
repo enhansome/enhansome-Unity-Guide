@@ -21,7 +21,7 @@
                 "open_issues": 110,
                 "owner": "microsoft",
                 "repo": "DirectX-Graphics-Samples",
-                "stars": 6842,
+                "stars": 6845,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:34:43.933Z"
@@ -42,7 +42,7 @@
                 "open_issues": 343,
                 "owner": "libgdx",
                 "repo": "libgdx",
-                "stars": 25443,
+                "stars": 25472,
                 "topics": [
                   "2d",
                   "3d",
@@ -110,11 +110,11 @@
                 "id": 1579990,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T22:16:55Z",
-                "open_issues": 763,
+                "last_commit": "2026-10-10T10:52:22Z",
+                "open_issues": 765,
                 "owner": "MonoGame",
                 "repo": "MonoGame",
-                "stars": 14501,
+                "stars": 14502,
                 "topics": [
                   "3d",
                   "c-sharp",
@@ -162,7 +162,7 @@
                 "open_issues": 1000,
                 "owner": "BradLarson",
                 "repo": "GPUImage",
-                "stars": 20286,
+                "stars": 20285,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:34:43.933Z"
@@ -222,7 +222,7 @@
                 "language": "C++",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-03-27T22:08:42Z",
-                "open_issues": 1045,
+                "open_issues": 1046,
                 "owner": "ValveSoftware",
                 "repo": "openvr",
                 "stars": 6678,
@@ -253,7 +253,7 @@
                 "open_issues": 60,
                 "owner": "collabora",
                 "repo": "libsurvive",
-                "stars": 939,
+                "stars": 940,
                 "topics": [
                   "hmd",
                   "htc-vive",
@@ -318,11 +318,11 @@
                 "id": 51506618,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T08:27:34Z",
-                "open_issues": 392,
+                "last_commit": "2026-10-09T19:04:27Z",
+                "open_issues": 393,
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Docs",
-                "stars": 3350,
+                "stars": 3349,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:34:43.933Z"
@@ -339,11 +339,11 @@
                 "id": 75787966,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T17:06:29Z",
+                "last_commit": "2026-10-09T22:06:57Z",
                 "open_issues": 754,
                 "owner": "microsoft",
                 "repo": "DirectXShaderCompiler",
-                "stars": 3659,
+                "stars": 3661,
                 "topics": [
                   "directx-shader-compiler",
                   "dxil",
@@ -369,7 +369,7 @@
                 "open_issues": 64,
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Samples",
-                "stars": 5390,
+                "stars": 5392,
                 "topics": [
                   "best-practices",
                   "cpp",
@@ -428,7 +428,7 @@
                 "open_issues": 27,
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Tools",
-                "stars": 498,
+                "stars": 499,
                 "topics": [
                   "vulkan"
                 ]
@@ -471,11 +471,11 @@
                 "id": 106558568,
                 "language": "C++",
                 "license": "Zlib",
-                "last_commit": "2026-10-09T15:00:12Z",
-                "open_issues": 268,
+                "last_commit": "2026-10-10T14:52:09Z",
+                "open_issues": 269,
                 "owner": "doitsujin",
                 "repo": "dxvk",
-                "stars": 18259,
+                "stars": 18264,
                 "topics": [
                   "d3d11",
                   "d3d9",
@@ -580,7 +580,7 @@
                 "open_issues": 319,
                 "owner": "HansKristian-Work",
                 "repo": "vkd3d-proton",
-                "stars": 2995,
+                "stars": 2997,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:34:43.933Z"
@@ -598,10 +598,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-07T18:36:37Z",
-                "open_issues": 1214,
+                "open_issues": 1215,
                 "owner": "ocornut",
                 "repo": "imgui",
-                "stars": 76557,
+                "stars": 76573,
                 "topics": [
                   "api",
                   "cplusplus",
@@ -638,7 +638,7 @@
                 "open_issues": 79,
                 "owner": "ash-rs",
                 "repo": "ash",
-                "stars": 2357,
+                "stars": 2356,
                 "topics": [
                   "gamedev",
                   "rust",
@@ -736,7 +736,7 @@
                 "open_issues": 110,
                 "owner": "microsoft",
                 "repo": "DirectX-Graphics-Samples",
-                "stars": 6842,
+                "stars": 6845,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:34:43.933Z"
@@ -754,10 +754,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-05T08:53:40Z",
-                "open_issues": 36,
+                "open_issues": 47,
                 "owner": "NVIDIA-RTX",
                 "repo": "NVRHI",
-                "stars": 2068,
+                "stars": 2075,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:34:43.933Z"
@@ -795,11 +795,11 @@
                 "id": 106558568,
                 "language": "C++",
                 "license": "Zlib",
-                "last_commit": "2026-10-09T15:00:12Z",
-                "open_issues": 268,
+                "last_commit": "2026-10-10T14:52:09Z",
+                "open_issues": 269,
                 "owner": "doitsujin",
                 "repo": "dxvk",
-                "stars": 18259,
+                "stars": 18264,
                 "topics": [
                   "d3d11",
                   "d3d9",
@@ -829,7 +829,7 @@
                 "open_issues": 319,
                 "owner": "HansKristian-Work",
                 "repo": "vkd3d-proton",
-                "stars": 2995,
+                "stars": 2997,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:34:43.933Z"
@@ -928,7 +928,7 @@
                 "open_issues": 39,
                 "owner": "alicevision",
                 "repo": "AliceVision",
-                "stars": 3511,
+                "stars": 3512,
                 "topics": [
                   "3d-computer-vision",
                   "3d-reconstruction",
@@ -963,7 +963,7 @@
                 "open_issues": 530,
                 "owner": "alicevision",
                 "repo": "Meshroom",
-                "stars": 12997,
+                "stars": 13000,
                 "topics": [
                   "3d-reconstruction",
                   "alicevision",
@@ -1033,7 +1033,7 @@
                 "open_issues": 265,
                 "owner": "plaidml",
                 "repo": "plaidml",
-                "stars": 4566,
+                "stars": 4565,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:34:43.933Z"
@@ -1054,7 +1054,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34550,
+                "stars": 34548,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -1155,7 +1155,7 @@
                 "open_issues": 521,
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11917,
+                "stars": 11916,
                 "topics": [
                   "big-data",
                   "cluster-management",
@@ -1199,10 +1199,10 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-09T08:21:54Z",
-                "open_issues": 1822,
+                "open_issues": 1823,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11175,
+                "stars": 11176,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -1227,8 +1227,8 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T15:32:44Z",
-                "open_issues": 805,
+                "last_commit": "2026-10-10T07:44:17Z",
+                "open_issues": 806,
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5302,
@@ -1292,7 +1292,7 @@
                 "open_issues": 521,
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11917,
+                "stars": 11916,
                 "topics": [
                   "big-data",
                   "cluster-management",
@@ -1339,7 +1339,7 @@
                 "open_issues": 265,
                 "owner": "plaidml",
                 "repo": "plaidml",
-                "stars": 4566,
+                "stars": 4565,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:34:43.933Z"
@@ -1360,7 +1360,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34550,
+                "stars": 34548,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -1402,11 +1402,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-09T16:11:02Z",
-                "open_issues": 1195,
+                "last_commit": "2026-10-10T10:14:27Z",
+                "open_issues": 1200,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14468,
+                "stars": 14472,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1502,10 +1502,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-23T08:49:11Z",
-                "open_issues": 780,
+                "open_issues": 782,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10548,
+                "stars": 10554,
                 "topics": [
                   "cpp",
                   "cuda",
@@ -1590,10 +1590,10 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-09T08:21:54Z",
-                "open_issues": 1822,
+                "open_issues": 1823,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11175,
+                "stars": 11176,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -1618,8 +1618,8 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T15:32:44Z",
-                "open_issues": 805,
+                "last_commit": "2026-10-10T07:44:17Z",
+                "open_issues": 806,
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5302,
@@ -1788,7 +1788,7 @@
                 "open_issues": 17,
                 "owner": "piermorel",
                 "repo": "gramm",
-                "stars": 825,
+                "stars": 826,
                 "topics": [
                   "data-visualization",
                   "matlab",
@@ -1853,8 +1853,8 @@
                 "id": 233147271,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-09T05:00:29Z",
-                "open_issues": 150,
+                "last_commit": "2026-10-10T06:22:27Z",
+                "open_issues": 152,
                 "owner": "Azure",
                 "repo": "azure-sdk-for-cpp",
                 "stars": 206,
@@ -1907,8 +1907,8 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T17:32:17Z",
-                "open_issues": 202,
+                "last_commit": "2026-10-10T15:13:06Z",
+                "open_issues": 203,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 659,
@@ -1943,11 +1943,11 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-10-08T23:25:28Z",
-                "open_issues": 1074,
+                "last_commit": "2026-10-10T01:05:48Z",
+                "open_issues": 1075,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27515,
+                "stars": 27516,
                 "topics": [
                   "c",
                   "cmake",
@@ -1979,7 +1979,7 @@
                 "open_issues": 346,
                 "owner": "mono",
                 "repo": "CppSharp",
-                "stars": 3400,
+                "stars": 3401,
                 "topics": [
                   "bindings",
                   "bridge",
@@ -2059,7 +2059,7 @@
                 "open_issues": 113,
                 "owner": "bytedeco",
                 "repo": "javacpp",
-                "stars": 4706,
+                "stars": 4705,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -2088,7 +2088,7 @@
                 "open_issues": 56,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29678,
+                "stars": 29676,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -2124,8 +2124,8 @@
                 "id": 32051890,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-09T17:29:18Z",
-                "open_issues": 1767,
+                "last_commit": "2026-10-10T15:58:16Z",
+                "open_issues": 1770,
                 "owner": "dotnet",
                 "repo": "msbuild",
                 "stars": 5552,
@@ -2156,7 +2156,7 @@
                 "open_issues": 0,
                 "owner": "microsoft",
                 "repo": "botframework-sdk",
-                "stars": 7804,
+                "stars": 7803,
                 "topics": [
                   "azure-bot-service",
                   "bot",
@@ -2226,7 +2226,7 @@
                 "open_issues": 507,
                 "owner": "codecadwallader",
                 "repo": "codemaid",
-                "stars": 1988,
+                "stars": 1989,
                 "topics": [
                   "c-sharp",
                   "clean-code",
@@ -2253,7 +2253,7 @@
                 "open_issues": 22,
                 "owner": "Azure",
                 "repo": "autorest",
-                "stars": 4795,
+                "stars": 4794,
                 "topics": [
                   "azure",
                   "code-generator",
@@ -2284,10 +2284,10 @@
                 "language": "C#",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-09-20T07:56:19Z",
-                "open_issues": 116,
+                "open_issues": 117,
                 "owner": "xoofx",
                 "repo": "markdig",
-                "stars": 5341,
+                "stars": 5340,
                 "topics": [
                   "commonmark",
                   "commonmark-parsing",
@@ -2333,7 +2333,7 @@
                 "open_issues": 716,
                 "owner": "LuaLS",
                 "repo": "lua-language-server",
-                "stars": 4384,
+                "stars": 4386,
                 "topics": [
                   "hacktoberfest",
                   "language-server",
@@ -2359,10 +2359,10 @@
                 "language": "Lua",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T07:31:59Z",
-                "open_issues": 259,
+                "open_issues": 260,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17206,
+                "stars": 17209,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -2403,7 +2403,7 @@
                 "open_issues": 119,
                 "owner": "nodemcu",
                 "repo": "nodemcu-firmware",
-                "stars": 7946,
+                "stars": 7947,
                 "topics": [
                   "esp32",
                   "esp8266",
@@ -2433,7 +2433,7 @@
                 "open_issues": 115,
                 "owner": "yuin",
                 "repo": "gopher-lua",
-                "stars": 6986,
+                "stars": 6988,
                 "topics": [
                   "go",
                   "gopher-lua",
@@ -2485,7 +2485,7 @@
                 "open_issues": 173,
                 "owner": "leafo",
                 "repo": "lapis",
-                "stars": 3348,
+                "stars": 3349,
                 "topics": [
                   "lapis",
                   "lua",
@@ -2511,7 +2511,7 @@
                 "open_issues": 41,
                 "owner": "ledgetech",
                 "repo": "lua-resty-http",
-                "stars": 2079,
+                "stars": 2078,
                 "topics": [
                   "http",
                   "http-client",
@@ -2580,8 +2580,8 @@
                 "id": 104416990,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-09T11:08:31Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-10T15:39:10Z",
+                "open_issues": 13,
                 "owner": "curl",
                 "repo": "curl-fuzzer",
                 "stars": 100,
@@ -2633,10 +2633,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2024-12-17T17:30:35Z",
-                "open_issues": 345,
+                "open_issues": 346,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38752,
+                "stars": 38754,
                 "topics": [
                   "api",
                   "api-client",
@@ -2678,7 +2678,7 @@
                 "open_issues": 9,
                 "owner": "reorx",
                 "repo": "httpstat",
-                "stars": 6217,
+                "stars": 6216,
                 "topics": [
                   "cli",
                   "curl",
@@ -2734,7 +2734,7 @@
                 "open_issues": 159,
                 "owner": "vi",
                 "repo": "websocat",
-                "stars": 8717,
+                "stars": 8718,
                 "topics": [
                   "cli",
                   "command-line",
@@ -2776,11 +2776,11 @@
                 "id": 10744183,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-09T11:25:26Z",
+                "last_commit": "2026-10-10T15:18:11Z",
                 "open_issues": 436,
                 "owner": "netdata",
                 "repo": "netdata",
-                "stars": 80856,
+                "stars": 80870,
                 "topics": [
                   "ai",
                   "alerting",
@@ -2867,7 +2867,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T17:41:00.478Z",
+    "last_updated": "2026-10-10T16:32:26.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "Unity Engine Guide",

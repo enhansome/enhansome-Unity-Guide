@@ -21,7 +21,7 @@
                 "open_issues": 112,
                 "owner": "microsoft",
                 "repo": "DirectX-Graphics-Samples",
-                "stars": 6866,
+                "stars": 6865,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:34:43.933Z"
@@ -38,11 +38,11 @@
                 "id": 5373551,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T12:54:10Z",
+                "last_commit": "2026-11-08T12:50:44Z",
                 "open_issues": 339,
                 "owner": "libgdx",
                 "repo": "libgdx",
-                "stars": 25507,
+                "stars": 25506,
                 "topics": [
                   "2d",
                   "3d",
@@ -80,7 +80,7 @@
                 "open_issues": 1603,
                 "owner": "cocos2d",
                 "repo": "cocos2d-x",
-                "stars": 19242,
+                "stars": 19240,
                 "topics": [
                   "android",
                   "c-plus-plus",
@@ -114,7 +114,7 @@
                 "open_issues": 773,
                 "owner": "MonoGame",
                 "repo": "MonoGame",
-                "stars": 14608,
+                "stars": 14613,
                 "topics": [
                   "3d",
                   "c-sharp",
@@ -162,7 +162,7 @@
                 "open_issues": 1000,
                 "owner": "BradLarson",
                 "repo": "GPUImage",
-                "stars": 20276,
+                "stars": 20275,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:34:43.933Z"
@@ -225,7 +225,7 @@
                 "open_issues": 1052,
                 "owner": "ValveSoftware",
                 "repo": "openvr",
-                "stars": 6689,
+                "stars": 6691,
                 "topics": [
                   "hardware",
                   "openvr-sdk",
@@ -253,7 +253,7 @@
                 "open_issues": 63,
                 "owner": "collabora",
                 "repo": "libsurvive",
-                "stars": 949,
+                "stars": 950,
                 "topics": [
                   "hmd",
                   "htc-vive",
@@ -322,7 +322,7 @@
                 "open_issues": 396,
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Docs",
-                "stars": 3372,
+                "stars": 3373,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:34:43.933Z"
@@ -343,7 +343,7 @@
                 "open_issues": 784,
                 "owner": "microsoft",
                 "repo": "DirectXShaderCompiler",
-                "stars": 3693,
+                "stars": 3695,
                 "topics": [
                   "directx-shader-compiler",
                   "dxil",
@@ -475,7 +475,7 @@
                 "open_issues": 255,
                 "owner": "doitsujin",
                 "repo": "dxvk",
-                "stars": 18438,
+                "stars": 18441,
                 "topics": [
                   "d3d11",
                   "d3d9",
@@ -577,10 +577,10 @@
                 "language": "C",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-11-06T15:33:39Z",
-                "open_issues": 332,
+                "open_issues": 333,
                 "owner": "HansKristian-Work",
                 "repo": "vkd3d-proton",
-                "stars": 3044,
+                "stars": 3042,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:34:43.933Z"
@@ -601,7 +601,7 @@
                 "open_issues": 1219,
                 "owner": "ocornut",
                 "repo": "imgui",
-                "stars": 77013,
+                "stars": 77023,
                 "topics": [
                   "api",
                   "cplusplus",
@@ -638,7 +638,7 @@
                 "open_issues": 81,
                 "owner": "ash-rs",
                 "repo": "ash",
-                "stars": 2381,
+                "stars": 2383,
                 "topics": [
                   "gamedev",
                   "rust",
@@ -691,7 +691,7 @@
                 "id": 54970775,
                 "language": "Julia",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-07T17:00:59Z",
+                "last_commit": "2026-11-07T20:08:21Z",
                 "open_issues": 0,
                 "owner": "JuliaGPU",
                 "repo": "Vulkan.jl",
@@ -736,7 +736,7 @@
                 "open_issues": 112,
                 "owner": "microsoft",
                 "repo": "DirectX-Graphics-Samples",
-                "stars": 6866,
+                "stars": 6865,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:34:43.933Z"
@@ -757,7 +757,7 @@
                 "open_issues": 48,
                 "owner": "NVIDIA-RTX",
                 "repo": "NVRHI",
-                "stars": 2096,
+                "stars": 2097,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:34:43.933Z"
@@ -799,7 +799,7 @@
                 "open_issues": 255,
                 "owner": "doitsujin",
                 "repo": "dxvk",
-                "stars": 18438,
+                "stars": 18441,
                 "topics": [
                   "d3d11",
                   "d3d9",
@@ -826,10 +826,10 @@
                 "language": "C",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-11-06T15:33:39Z",
-                "open_issues": 332,
+                "open_issues": 333,
                 "owner": "HansKristian-Work",
                 "repo": "vkd3d-proton",
-                "stars": 3044,
+                "stars": 3042,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:34:43.933Z"
@@ -963,7 +963,7 @@
                 "open_issues": 549,
                 "owner": "alicevision",
                 "repo": "Meshroom",
-                "stars": 13066,
+                "stars": 13069,
                 "topics": [
                   "3d-reconstruction",
                   "alicevision",
@@ -1054,7 +1054,7 @@
                 "open_issues": 1176,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34558,
+                "stars": 34556,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -1079,7 +1079,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10013,
+                "stars": 10012,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:34:43.933Z"
@@ -1360,7 +1360,7 @@
                 "open_issues": 1176,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34558,
+                "stars": 34556,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -1385,7 +1385,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10013,
+                "stars": 10012,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:34:43.933Z"
@@ -1402,11 +1402,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-07T08:29:38Z",
-                "open_issues": 1229,
+                "last_commit": "2026-11-08T09:25:45Z",
+                "open_issues": 1232,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14575,
+                "stars": 14578,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1479,7 +1479,7 @@
                 "open_issues": 0,
                 "owner": "NVIDIA",
                 "repo": "nvidia-docker",
-                "stars": 17616,
+                "stars": 17618,
                 "topics": [
                   "cuda",
                   "docker",
@@ -1505,7 +1505,7 @@
                 "open_issues": 844,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10707,
+                "stars": 10710,
                 "topics": [
                   "cpp",
                   "cuda",
@@ -1829,7 +1829,7 @@
                 "open_issues": 248,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45443,
+                "stars": 45449,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:34:43.933Z"
@@ -1853,7 +1853,7 @@
                 "id": 233147271,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-07T05:06:22Z",
+                "last_commit": "2026-11-08T02:16:42Z",
                 "open_issues": 143,
                 "owner": "Azure",
                 "repo": "azure-sdk-for-cpp",
@@ -1907,7 +1907,7 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T15:48:36Z",
+                "last_commit": "2026-11-08T14:57:19Z",
                 "open_issues": 220,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
@@ -1943,11 +1943,11 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-11-07T09:17:48Z",
-                "open_issues": 1048,
+                "last_commit": "2026-11-08T04:44:07Z",
+                "open_issues": 1059,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27580,
+                "stars": 27583,
                 "topics": [
                   "c",
                   "cmake",
@@ -2088,7 +2088,7 @@
                 "open_issues": 58,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29740,
+                "stars": 29737,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -2125,7 +2125,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-06T16:14:24Z",
-                "open_issues": 1844,
+                "open_issues": 1845,
                 "owner": "dotnet",
                 "repo": "msbuild",
                 "stars": 5553,
@@ -2191,7 +2191,7 @@
                 "open_issues": 137,
                 "owner": "quasar",
                 "repo": "Quasar",
-                "stars": 9899,
+                "stars": 9901,
                 "topics": [
                   "administration",
                   "c-sharp",
@@ -2283,11 +2283,11 @@
                 "id": 59669326,
                 "language": "C#",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-04T20:44:47Z",
-                "open_issues": 109,
+                "last_commit": "2026-11-08T07:12:05Z",
+                "open_issues": 108,
                 "owner": "xoofx",
                 "repo": "markdig",
-                "stars": 5354,
+                "stars": 5355,
                 "topics": [
                   "commonmark",
                   "commonmark-parsing",
@@ -2362,7 +2362,7 @@
                 "open_issues": 243,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17302,
+                "stars": 17304,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -2541,7 +2541,7 @@
                 "open_issues": 113,
                 "owner": "NLua",
                 "repo": "NLua",
-                "stars": 2247,
+                "stars": 2248,
                 "topics": [
                   "c-sharp",
                   "dotnet",
@@ -2580,8 +2580,8 @@
                 "id": 104416990,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-06T01:52:00Z",
-                "open_issues": 20,
+                "last_commit": "2026-11-08T17:06:12Z",
+                "open_issues": 22,
                 "owner": "curl",
                 "repo": "curl-fuzzer",
                 "stars": 100,
@@ -2633,7 +2633,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2024-12-17T17:30:35Z",
-                "open_issues": 362,
+                "open_issues": 361,
                 "owner": "httpie",
                 "repo": "cli",
                 "stars": 38699,
@@ -2705,7 +2705,7 @@
                 "open_issues": 42,
                 "owner": "asciimoo",
                 "repo": "wuzz",
-                "stars": 10741,
+                "stars": 10742,
                 "topics": [
                   "cli",
                   "curl",
@@ -2776,8 +2776,8 @@
                 "id": 10744183,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-07T07:53:56Z",
-                "open_issues": 443,
+                "last_commit": "2026-11-08T10:17:00Z",
+                "open_issues": 447,
                 "owner": "netdata",
                 "repo": "netdata",
                 "stars": 81300,
@@ -2867,7 +2867,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T17:07:37.034Z",
+    "last_updated": "2026-11-08T17:21:14.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "Unity Engine Guide",
